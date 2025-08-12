@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.subba.app",
+      "sha256_cert_fingerprints": [
+        "SHA256: 09:5A:1E:3D:D3:AE:FA:B0:57:58:92:A7:81:02:A3:C0:04:C2:32:C8:06:9A:D3:ED:8B:97:AC:D6:C5:84:96:DF"
+      ]
+    }
+  }
+]
